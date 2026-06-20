@@ -1,7 +1,7 @@
 /*
 Maksym Fursin
 June 17, 2026
-lab 17: 
+lab 17: 2D array
 */
 
 #include <iostream>
